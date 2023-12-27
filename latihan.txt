@@ -4,3 +4,5 @@ Halo saya baru belajar github
 -biar bisa masuk di cv
 -halo saya kholil
 -ini pikri
+-A
+-B
